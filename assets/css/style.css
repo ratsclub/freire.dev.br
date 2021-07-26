@@ -12,6 +12,7 @@ main {
   margin: 10vh auto;
   padding: 1vh;
   max-width: 350px;
+  text-align: justify;
 }
 
 mark {
@@ -53,6 +54,6 @@ a {
 
 #links {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   margin: 0% 10% 0% 10%;
 }
